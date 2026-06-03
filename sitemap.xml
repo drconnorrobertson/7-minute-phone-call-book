@@ -37,10 +37,34 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://7minutephonecallbook.com/blog/</loc>
+    <loc>https://7minutephonecallbook.com/contact/</loc>
     <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://7minutephonecallbook.com/blog/</loc>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://7minutephonecallbook.com/blog/posts/how-to-build-instant-rapport-on-any-sales-call/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7minutephonecallbook.com/blog/posts/the-art-of-the-follow-up-call/</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7minutephonecallbook.com/blog/posts/the-psychology-of-closing-on-sales-calls/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://7minutephonecallbook.com/blog/posts/why-7-minutes-is-all-you-need/</loc>
@@ -71,23 +95,5 @@
     <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-  <url>
-  <url>
-    <loc>https://7minutephonecallbook.com/blog/posts/the-psychology-of-closing-on-sales-calls/</loc>
-    <lastmod>2026-05-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-    <loc>https://7minutephonecallbook.com/blog/posts/the-art-of-the-follow-up-call/</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-    <loc>https://7minutephonecallbook.com/contact/</loc>
-    <lastmod>2026-05-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
 </urlset>
