@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>https://7minutephonecallbook.com/blog/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -99,6 +99,12 @@
   <url>
     <loc>https://7minutephonecallbook.com/blog/posts/qualifying-prospects-fast-5-questions/</loc>
     <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://7minutephonecallbook.com/blog/posts/handling-objections-on-sales-calls/</loc>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
