@@ -72,7 +72,7 @@ ul,ol{padding-left:1.5rem;margin-bottom:1rem}
 .hero{background:linear-gradient(135deg,var(--gray-900) 0%,var(--navy) 50%,var(--navy-light) 100%);color:var(--white);padding:6rem 0 5rem;position:relative;overflow:hidden}
 .hero::before{content:'';position:absolute;top:-50%;right:-20%;width:600px;height:600px;background:radial-gradient(circle,rgba(249,115,22,.15) 0%,transparent 70%);border-radius:50%}
 .hero-grid{display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:center}
-.hero h1{margin-bottom:1.5rem}
+.hero h1{margin-bottom:1.5rem;color:var(--white)}
 .hero h1 .highlight{color:var(--orange);display:block}
 .hero-subtitle{font-size:1.25rem;color:var(--gray-300);margin-bottom:2rem;line-height:1.6}
 .hero-cta{display:flex;gap:1rem;flex-wrap:wrap}
@@ -85,6 +85,12 @@ ul,ol{padding-left:1.5rem;margin-bottom:1rem}
 .book-cover .cover-sub{font-size:.8rem;opacity:.85;text-align:center;line-height:1.4}
 .book-cover .cover-author{position:absolute;bottom:1.5rem;font-size:.8rem;font-weight:600;letter-spacing:.05em}
 .book-spine{position:absolute;left:0;top:0;bottom:0;width:12px;background:rgba(0,0,0,.15);border-radius:4px 0 0 4px}
+
+/* ===== VISUAL ACCESSIBILITY POLISH ===== */
+h1,h2,h3{text-wrap:balance}
+::selection{background:rgba(249,115,22,.28);color:var(--gray-900)}
+:where(a,button,input,select,textarea,summary):focus-visible{outline:3px solid var(--orange);outline-offset:3px;border-radius:4px}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
 
 /* ===== SOCIAL PROOF BAR ===== */
 .proof-bar{background:var(--gray-900);padding:1.5rem 0;text-align:center}
