@@ -42,6 +42,6 @@
       ]
     }
   ],
-  "buildCommand": "node scripts/buyer-intent-release.cjs .",
+  "buildCommand": "node scripts/buyer-intent-release.cjs . && node scripts/decision-guides.cjs",
   "outputDirectory": "."
 }
