@@ -1,0 +1,173 @@
+{
+  "origin": "https://www.7minutephonecallbook.com",
+  "brand": "The 7 Minute Phone Call",
+  "color": "#2e4771",
+  "clean": true,
+  "parents": [
+    "index.html",
+    "resources/index.html",
+    "framework/index.html"
+  ],
+  "cta": "/reading-guide/",
+  "ctaText": "Explore the book reading guide",
+  "related": [
+    [
+      "/framework/",
+      "Four-part conversation framework"
+    ],
+    [
+      "/resources/",
+      "Sales scripts and resources"
+    ],
+    [
+      "/workflows/",
+      "Conversation workflows"
+    ]
+  ],
+  "pages": [
+    {
+      "slug": "sales-call-vs-email-follow-up-stalled-proposal",
+      "title": "Call vs Email Follow-Up for a Stalled Proposal",
+      "description": "Choose a phone call, a concise email or a pause when a proposal stalls. Use the buyer's open question, access and agreed next step to decide.",
+      "intro": "A stalled proposal does not automatically need another call or a longer email. Choose the channel by the uncertainty you need to resolve and the buyer's preferred way to communicate. The purpose of a follow-up is to clarify a decision, including a decision to stop, rather than to create activity for its own sake.",
+      "items": [
+        [
+          "Name the unanswered question",
+          "Write down what remains unknown: fit, scope, timing, participants or a specific approval. If you cannot name the question, do not send a generic checking-in message. Review the last conversation and distinguish what the buyer actually said from what you assumed after sending the proposal."
+        ],
+        [
+          "Use email for a defined written answer",
+          "A concise email can work when the buyer needs a corrected detail, a scope summary or an artifact to share internally. Put the open question near the top and make the requested response easy to understand. Avoid attaching a new presentation when the original question needs one sentence."
+        ],
+        [
+          "Use a call for an ambiguous conversation",
+          "A short conversation can help when several interpretations of the delay remain plausible and the buyer is willing to discuss them. Ask whether the moment is convenient. Prepare one diagnostic question and a brief recap rather than treating the call as permission to restart the entire pitch."
+        ],
+        [
+          "Respect the buyer's channel preference",
+          "If the buyer asks for email, use email. If a call was agreed, keep that agreement rather than replacing it with a surprise sequence. A communication preference is information about how to work together, not an obstacle to overcome through repeated attempts on other channels."
+        ],
+        [
+          "Make the next action proportionate",
+          "The next step might be answering a scope question, including another participant or scheduling a review. Ask for the smallest action that resolves the uncertainty. Do not request a full demonstration when the buyer is still deciding whether the proposed work addresses the problem."
+        ],
+        [
+          "Record a pause honestly",
+          "When the buyer says the project is deferred, record the reason and any mutually agreed date or trigger for reopening it. If there is no agreement to reconnect, do not invent one. Distinguish an active opportunity from a conversation that currently has no next step."
+        ],
+        [
+          "Update the record after contact",
+          "Capture the actual response, the remaining question and any owner and date agreed. Keep unanswered outreach separate from confirmed progress. This makes a later review more useful than a count of calls or emails that says nothing about whether the buyer's situation changed."
+        ]
+      ],
+      "example": "Illustrative email: 'In our last discussion, the open question was whether implementation includes the existing CRM. The attached scope now names the included work. Is that the remaining issue, or has the priority changed?' If the answer introduces several new constraints, suggest a short call with an agreed purpose.",
+      "action": "Before the next follow-up, complete three lines: the buyer's last stated position, the unresolved decision and the reason this channel helps. Afterward, record the answer or lack of response without changing the opportunity stage merely because you contacted the buyer.",
+      "faq": [
+        [
+          "How many follow-ups should I send?",
+          "There is no universal count that fits every relationship. Use the prior agreement, relevance of new information and the buyer's stated preferences to decide whether another contact is useful."
+        ],
+        [
+          "Does a short call have to last seven minutes?",
+          "Use a short-call structure to stay focused. Let the agreed purpose and the other person's availability determine the appropriate length."
+        ]
+      ]
+    },
+    {
+      "slug": "send-me-information-sales-response-checklist",
+      "title": "7 Responses to \u201cSend Me Information\u201d in Sales",
+      "description": "Clarify what a prospect needs when they ask for information. Use seven practical questions to choose the right resource, next step or respectful close.",
+      "intro": "When a prospect says send me information, they may want a useful resource, need time or prefer to end the conversation. Do not assume the request is either a buying signal or a disguised objection. One brief clarifying question can help you respond appropriately without turning a simple request into an interrogation.",
+      "items": [
+        [
+          "Ask which decision the information supports",
+          "Try: 'What would you like the information to help you decide?' Use the answer to narrow what you send. If the person simply wants a general overview, provide one rather than insisting that they disclose a buying process before receiving a basic explanation."
+        ],
+        [
+          "Offer a choice between two relevant resources",
+          "Try: 'Would a service overview or an example of the implementation steps be more useful?' Only offer resources that actually exist and accurately describe your work. Avoid manufacturing a detailed case study or implying that an illustrative scenario documents a client outcome."
+        ],
+        [
+          "Clarify the requested level of detail",
+          "Try: 'Would you prefer a brief summary or the full scope document?' A busy contact may need a concise explanation they can forward. Match the format to the request rather than sending every available attachment in the hope that one of them creates interest."
+        ],
+        [
+          "Ask whether another reader needs context",
+          "Try: 'Is this for your own review, or should I explain it for someone else as well?' The answer can help you define terms and make the summary self-contained. Do not treat a forwarding request as confirmation that an executive has approved or even seen the project."
+        ],
+        [
+          "Check whether a specific concern is missing",
+          "Try: 'Is there a particular question the information should address?' If the concern is pricing or implementation, answer directly using approved facts. If you do not know, say what you will confirm and when instead of filling the gap with an optimistic estimate."
+        ],
+        [
+          "Ask before scheduling another contact",
+          "Try: 'Would a follow-up be useful after you review it, or would you rather come back to me?' If a follow-up is welcome, agree on its purpose and timing. A resource request alone does not establish an appointment or a commitment to continue the sales process."
+        ],
+        [
+          "Make a clean exit available",
+          "Try: 'If this is not a priority, I can leave the overview with you and close the loop for now.' Use that option sincerely. Record a pause or a no when that is the answer instead of relabeling it as an objection that requires a more persistent sequence."
+        ]
+      ],
+      "example": "Illustrative exchange: a prospect asks for information because a colleague owns implementation. You ask whether a short implementation summary would help, send the requested document and offer to answer the colleague's questions. The prospect declines a scheduled call. Record the resource request as completed without adding an unconfirmed meeting to the forecast.",
+      "action": "Choose one clarifying question that fits the moment. Send the promised resource with a short explanation of why it answers the request. Record what was requested, what you sent and whether any further contact was actually agreed. Keep private notes out of forwarded material.",
+      "faq": [
+        [
+          "Should I use all seven questions on one call?",
+          "No. These are alternatives. Ask only what is needed to understand and fulfill the request without prolonging an unwanted conversation."
+        ],
+        [
+          "What if the prospect will not clarify?",
+          "Send an appropriate brief overview if you can, respect their preference and avoid inventing a next step they did not agree to."
+        ]
+      ]
+    },
+    {
+      "slug": "sales-discovery-call-next-step-checklist",
+      "title": "7 Checks Before Ending a Sales Discovery Call",
+      "description": "End discovery calls with an accurate problem summary, open questions, the right participants and a mutually agreed next step instead of a vague follow-up.",
+      "intro": "A discovery call is useful when both participants leave with a clearer view of the problem and what happens next. An automatic demo booking is not always the right outcome. Use these seven checks to decide whether another conversation, a specific answer or an honest close is appropriate.",
+      "items": [
+        [
+          "Restate the problem in the buyer's words",
+          "Offer a short summary and ask what you missed. Separate the stated issue from your interpretation of its consequences. If the buyer corrects the summary, update your notes before recommending a solution; agreement to continue talking is not confirmation that your diagnosis was accurate."
+        ],
+        [
+          "Identify the consequence that matters",
+          "Ask what changes if the issue remains unresolved and avoid supplying a dramatic answer on the buyer's behalf. Record the operational effect they describe. A consequence can be inconvenience or lost time without becoming a fabricated dollar figure in a proposal or business case."
+        ],
+        [
+          "State the limits of current fit",
+          "Explain the part of the problem your service may address and the questions still open. If a technical or delivery detail needs confirmation, assign that investigation. Do not present a tentative fit as a completed evaluation merely to make the next meeting easier to obtain."
+        ],
+        [
+          "Ask who should join the next decision",
+          "Determine which knowledge or responsibility is missing from the current conversation. Ask whether involving that person would be useful. This can be an operational user or implementation owner rather than only a senior approver, depending on the decision the next step needs to resolve."
+        ],
+        [
+          "Choose one useful next action",
+          "Match the action to the open question: a scoped demonstration, a document review, an internal check or no further work. Explain the purpose before suggesting a date. A meeting with no decision to support can consume time without producing a clearer opportunity."
+        ],
+        [
+          "Agree on ownership and timing",
+          "If both sides want to continue, name who will do what and by when. Confirm the practical details instead of saying that someone will reach out soon. If the buyer cannot commit, record that uncertainty rather than putting an arbitrary deadline into your follow-up message."
+        ],
+        [
+          "Send a concise accurate recap",
+          "Summarize the problem, open question and agreed action using approved information. Invite corrections. Keep your internal qualification notes separate from the buyer-facing recap and do not describe unanswered questions as settled requirements. The recap should help the next participant understand why they are involved."
+        ]
+      ],
+      "example": "Illustrative close: 'You need a clearer handoff between inquiry and estimate. We have not yet checked how the current system routes requests. I will send the two fields we need to inspect, and you will ask the operations lead whether a review next week is useful. Is that an accurate next step?' This preserves the uncertainty instead of claiming a booked implementation.",
+      "action": "Create a short call record with problem, consequence, potential fit, unanswered question, required participant and agreed action. Leave a field blank when the answer is unknown. Review that record before preparing a proposal so the offer does not outrun what the conversation established.",
+      "faq": [
+        [
+          "Is a call unsuccessful if it ends without another meeting?",
+          "No. Discovering poor fit, low priority or an unresolved prerequisite can be a useful outcome when it prevents inappropriate follow-up or premature proposals."
+        ],
+        [
+          "Should the checklist become a rigid script?",
+          "Use it as a preparation and review aid. Let the conversation determine the order, and avoid repeating questions the buyer has already answered."
+        ]
+      ]
+    }
+  ]
+}
