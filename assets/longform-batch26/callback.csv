@@ -1,0 +1,9 @@
+id,utc,zone
+Normal-New_York,2026-10-28T15:00:00Z,America/New_York
+Normal-London,2026-10-28T15:00:00Z,Europe/London
+RepeatedA-New_York,2026-11-01T05:30:00Z,America/New_York
+RepeatedA-London,2026-11-01T05:30:00Z,Europe/London
+RepeatedB-New_York,2026-11-01T06:30:00Z,America/New_York
+RepeatedB-London,2026-11-01T06:30:00Z,Europe/London
+Dateboundary-New_York,2026-10-28T00:30:00Z,America/New_York
+Dateboundary-London,2026-10-28T00:30:00Z,Europe/London
