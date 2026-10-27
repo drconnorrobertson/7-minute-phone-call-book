@@ -1,0 +1,7 @@
+fictional_case,authored_source_fragment,authored_weak_question,bounded_alternative,review_boundary
+A,I would like to understand the options.,Who should I send the purchase agreement to?,Which part of the options would you like to understand first?,Interest is not purchase authorization
+B,Tuesday could work if my colleague can join.,"Great, what time is our confirmed Tuesday meeting?",What needs to be confirmed about your colleague joining before we choose a time?,Conditional time is not confirmed
+C,I can describe how the team uses the current process.,When will you approve the replacement?,What part of the current process can you walk me through?,Information role is not approval authority
+D,Price and implementation time are separate concerns.,Are the price and timeline acceptable?,Which price question would you like to clarify first?,Two concerns should remain distinguishable
+E,That part has been difficult recently.,How much money have the approval delays cost you?,Which part do you mean by that part?,Vague reference is not confirmed cause or loss
+F,Please send a short description so I can decide whether to discuss it.,When should I call to close this?,What should the short description cover to help you decide whether a discussion is useful?,Information request is not a discussion or sale commitment
