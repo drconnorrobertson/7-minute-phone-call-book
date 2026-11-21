@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://7minutephonecallbook.com/sitemap.xml
+Sitemap: https://www.7minutephonecallbook.com/sitemap.xml
